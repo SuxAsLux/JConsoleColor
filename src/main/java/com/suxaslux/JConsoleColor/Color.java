@@ -1,4 +1,4 @@
-package com.suxaslux;
+package com.suxaslux.JConsoleColor;
 
 public class Color {
     //Thanks to @shakram02 for the list
