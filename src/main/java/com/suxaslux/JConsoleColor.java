@@ -1,6 +1,6 @@
 package com.suxaslux;
 
-public class Main {
+public class JConsoleColor {
     public static void Print(String message, String color)
     {
         System.out.println(color + message + Color.RESET);
