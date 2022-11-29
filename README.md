@@ -19,4 +19,4 @@ public class Test {
 ```
 Output:
 
-![](../../Desktop/output_cyan.png)
+![alt text](https://i.imgur.com/jG6j9ws.png)
