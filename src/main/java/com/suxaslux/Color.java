@@ -1,6 +1,8 @@
 package com.suxaslux;
 
 public class Color {
+    //Thanks to @shakram02 for the list
+
     // Reset
     public static final String RESET = "\033[0m";  // Text Reset
 
